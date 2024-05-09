@@ -5,7 +5,7 @@
  ## Building
 
  ```
- go build -o mmdb_search_blocked main.go
+ go build -o mmdb_block_search main.go
  ```
 
  ## Usage
